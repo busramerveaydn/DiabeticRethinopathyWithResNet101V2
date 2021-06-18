@@ -2,6 +2,7 @@
 #Retinal Görüntülerde Diyabetik Retinopati Hastalığı teşhisi
 
 ## Bitirme Tezi
+https://drive.google.com/file/d/15ccLt-29lF4XPkLNREMux0wnL3so4F_u/view?usp=sharing
 
 ## Koda ait görüntü linkleri
 
