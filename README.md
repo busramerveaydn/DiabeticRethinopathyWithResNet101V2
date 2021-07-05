@@ -1,5 +1,5 @@
 # DiabeticRethinopathyWithResNet101V2
-#Retinal Görüntülerde Diyabetik Retinopati Hastalığı teşhisi
+# Retinal Görüntülerde Diyabetik Retinopati Hastalığı teşhisi
 
 ## Bitirme Tezi
 https://drive.google.com/file/d/1spwbSIPd0QZHR-9etQazFrqMFCxZJmJY/view?usp=sharing
